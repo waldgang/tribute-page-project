@@ -27,16 +27,11 @@
   max-width: 1024px;
   margin-left: auto;
   margin-right: auto;
-  
 }
 
 #img-caption {
   text-align: center;
   margin: 15px 0px 0px;
-}
-
-#tribute-info {
-  
 }
 
 #section-summary {
@@ -71,5 +66,4 @@ li {
   font-size: 20px;
   padding: 20px 0px 10px;
   text-align: center;
-  
 }
