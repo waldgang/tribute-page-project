@@ -1,0 +1,75 @@
+/*main.css*/
+
+#main {
+  background-color: #EEEEEE;
+  font-family: helvetica, monospace, roboto;
+}
+
+#title {
+  padding: 45px 0px 0px 0px;
+  font-size: 45px;
+  text-align: center;
+}
+
+#title-caption {
+  text-align: center;
+  margin: 10px;
+}
+
+#img-div {
+  background-color: white;
+  padding: 15px;
+}
+
+#image {
+  display: block;
+  width: 100%;
+  max-width: 1024px;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+#img-caption {
+  text-align: center;
+  margin: 15px 0px 0px;
+}
+
+#tribute-info {
+  
+}
+
+#section-summary {
+  text-align: center;
+  margin: 40px;
+}
+
+#life-timeline {
+  list-style-type: disc;
+  margin: auto;
+  width: 500px;
+}
+
+li {
+  margin: 15px;
+}
+
+.ending-quote-1 {
+  list-style-type: none;
+  padding: 50px 0px;
+  text-align: left;
+  margin: auto;
+  width: 500px;
+}
+.ending-quote-2 {
+  list-style-type: none;
+  margin: -20px 0px 0px 0px;
+  
+}
+
+#learn-more {
+  font-size: 20px;
+  padding: 20px 0px 10px;
+  text-align: center;
+  
+}
